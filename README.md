@@ -1,4 +1,4 @@
-## 📑 Aşk Ölçer Test Sitesi 
+## 📑 Discord.py Bot
 
 - [x] pip install yapıp , ardından
 - [x] f5 tuşuna basınız geliştirmeye açıktır.
